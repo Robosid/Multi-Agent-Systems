@@ -1,0 +1,15 @@
+ * It borrows some code from the follow_edge and gradient
+ * examples found at
+ * https://github.com/JIC-CSB/kilombo
+ *
+ * It is designed to run on the Kilombo simulator.
+ *
+ * To run the program requires installing the Kilombo
+ * simulator from the above link and compiling the code
+ * using the provided Makefile
+ *
+ * Once the executable is built
+ * './run_radbot -b bot_pos.json'
+ * Will run the program using the simulator parameters
+ * and starting bot positions found in kilombo.json
+ * and bot_pos.json
