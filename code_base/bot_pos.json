@@ -1,0 +1,133 @@
+{
+  "bot_states": [
+    {
+      "ID": 0,
+      "direction": -23.144444150107315,
+      "state": {},
+      "x_position": -300.0,
+      "y_position": -60.0
+    },
+    {
+      "ID": 1,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -300.0,
+      "y_position": -70.0
+    },
+    {
+      "ID": 2,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -300.0,
+      "y_position": -84.0
+    },
+    {
+      "ID": 3,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -300.0,
+      "y_position": -122.66666666666667
+    },
+    {
+      "ID": 4,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -339.33333333333331,
+      "y_position": -166.66666666666666
+    },
+    {
+      "ID": 5,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -300.0,
+      "y_position": -190.66666666666666
+    },
+    {
+      "ID": 6,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -300.0,
+      "y_position": -161.33333333333334
+    },
+    {
+      "ID": 7,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -315.0,
+      "y_position": -122.66666666666667
+    },
+    {
+      "ID": 8,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -315.0,
+      "y_position": -86.666666666666671
+    },
+    {
+      "ID": 9,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -315.0,
+      "y_position": -58.666666666666664
+    },
+    {
+      "ID": 10,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -315.0,
+      "y_position": -45.333333333333336
+    },
+    {
+      "ID": 11,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -315.0,
+      "y_position": -78.666666666666671
+    },
+    {
+      "ID": 12,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -315.0,
+      "y_position": -118.66666666666667
+    },
+    {
+      "ID": 13,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -330.0,
+      "y_position": -164.0
+    },
+{
+      "ID": 14,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -330.0,
+      "y_position": -42.333333333333336
+    },
+    {
+      "ID": 15,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -330.0,
+      "y_position": -82.666666666666671
+    },
+    {
+      "ID": 16,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -330.0,
+      "y_position": -122.66666666666667
+    },
+    {
+      "ID": 17,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -330.0,
+      "y_position": -160.0
+    }
+
+  ],
+  "ticks": 18,
+  "showHist": 0
+}
